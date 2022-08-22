@@ -1,0 +1,1 @@
+Hi there, this is the first page I created by Golang.
